@@ -1,0 +1,97 @@
+.col-md-7-scroll{
+    position: absolute;
+    top: 29%;
+    bottom: 5%;
+    right: 0;
+    left: 30%;
+    overflow-y: scroll;
+    width: 70%;
+}
+.col-md-3-scroll-left{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    overflow-y: scroll;
+    width: 30%;
+}
+.col-md-7-scroll-right{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 30%;
+    overflow-y: scroll;
+    width: 70%;
+    margin-top: 75px;
+    margin-bottom: 20px;
+}
+.h4{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.genre{
+    margin-top: 50px;
+}
+.inhalt{
+  margin-top: 20px;
+  margin-left: 10px;
+  min-height: 500px;
+}
+.buttons{
+  background-color:#431416;
+  color: #8C8F86;
+  margin-top: 20px;
+  border-radius: 20px;
+  text-align: center;
+  color: #F6E6E7;
+}
+
+.container{
+  background-color: #F6E6E7;
+}
+
+.Willkommenstext{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.card-body{
+    background-color:#431416;
+}
+
+.card-header{
+  background-color:#431416;
+  color: #F6E6E7;
+}
+
+.list-group-item{
+  background-color: #431416;
+  color: #F6E6E7;
+}
+
+.card-text{
+  margin-left: 20px;
+  color: #F6E6E7;
+}
+
+.maps{
+  margin-left:120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list-group{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card{
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+.card-katalog{
+  margin-top: 10px;
+}
