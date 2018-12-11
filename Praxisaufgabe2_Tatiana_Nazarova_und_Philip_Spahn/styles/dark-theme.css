@@ -54,6 +54,7 @@
 .Willkommenstext{
   margin-bottom: 20px;
   margin-top: 20px;
+  color: #F6E6E7;
 }
 
 .card-body{
@@ -109,6 +110,19 @@ margin-bottom: 10px;
     color: #431416;
 }
 
-.fantasy{
-  background-color: #867677;
+.ueberschrift{
+  color: #F6E6E7;
+}
+
+.flex-column{
+    color:#431416;
+}
+
+.form-check-label{
+  color:#431416
+}
+
+.game-text{
+  color: #F6E6E7;
+  margin-top: 10px
 }
